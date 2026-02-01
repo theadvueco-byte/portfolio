@@ -12,26 +12,22 @@ const reelTypes = [
       "Focus on features & visual appeal",
     ],
     videos: [
-       "videos/type1.1.mp4",
-        
-     
-       "videos/type1.2.mp4",
-       "videos/type1.3.mp4",
-       "videos/type1.4.mp4",
-       "videos/type1.5.mp4",
-         "/videos/type1.7.mp4",
-          "/videos/type1.8.mp4",
-           "/videos/type1.9.mp4",
-           "/videos/type1.10.mp4",
-           "/videos/type1.11.mp4",
-            "/videos/type1.12.mp4",
-             "/videos/type1.13.mp4",
-             
-            
-      
+      "videos/type1.1.mp4",
+      "videos/type1.2.mp4",
+      "videos/type1.3.mp4",
+      "videos/type1.4.mp4",
+      "videos/type1.5.mp4",
+      "videos/type1.7.mp4",
+      "videos/type1.8.mp4",
+      "videos/type1.9.mp4",
+      "videos/type1.10.mp4",
+      "videos/type1.11.mp4",
+      "videos/type1.12.mp4",
+      "videos/type1.13.mp4",
     ],
   },
-   {
+
+  {
     title: "Type 2: Professional Camera Shoot (High-End Production)",
     subtitle:
       "Premium quality reels built for branding & ads using professional equipment and setups.",
@@ -43,24 +39,23 @@ const reelTypes = [
       "Premium reels for ads & branding",
     ],
     videos: [
-      "/videos/type2.1.mp4",
-      "/videos/type2.2.mp4",
-      "/videos/type2.3.mp4",
-      // "/videos/type2.4.mp4",
-      "/videos/type2.5.mp4",
-       "/videos/type2.6.mp4",
-        "/videos/type2.7.mp4",
-         "/videos/type2.8.mp4",
-         "/videos/type2.9.mp4",
-         "/videos/type2.10.mp4",
-         "/videos/type2.11.mp4",
-         "/videos/type2.12.mp4",
-         "/videos/type2.13.mp4",
-            "/videos/type2.14.mp4",
-             "/videos/type2.15.mp4",
+      "videos/type2.1.mp4",
+      "videos/type2.2.mp4",
+      "videos/type2.3.mp4",
+      "videos/type2.5.mp4",
+      "videos/type2.6.mp4",
+      "videos/type2.7.mp4",
+      "videos/type2.8.mp4",
+      "videos/type2.9.mp4",
+      "videos/type2.10.mp4",
+      "videos/type2.11.mp4",
+      "videos/type2.12.mp4",
+      "videos/type2.13.mp4",
+      "videos/type2.14.mp4",
+      "videos/type2.15.mp4",
     ],
-
   },
+
   {
     title: "Type 3: Content-Based Reel Editing (Lead Generation)",
     subtitle:
@@ -73,19 +68,18 @@ const reelTypes = [
       "Optimized for lead generation",
     ],
     videos: [
-      "/videos/type3.1.mp4",
-      "/videos/type3.2.mp4",
-      "/videos/type3.3.mp4",
-      "/videos/type3.4.mp4",
-      "/videos/type3.5.mp4",
-       "/videos/type3.6.mp4",
-        "/videos/type3.7.mp4",
-         "/videos/type3.8.mp4",
-      
+      "videos/type3.1.mp4",
+      "videos/type3.2.mp4",
+      "videos/type3.3.mp4",
+      "videos/type3.4.mp4",
+      "videos/type3.5.mp4",
+      "videos/type3.6.mp4",
+      "videos/type3.7.mp4",
+      "videos/type3.8.mp4",
     ],
   },
- 
 ];
+
 
 export function ReelsPortfolio() {
   return (
