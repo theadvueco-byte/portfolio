@@ -12,13 +12,13 @@ const reelTypes = [
       "Focus on features & visual appeal",
     ],
     videos: [
-       "/videos/type1.1.mp4",
+       "videos/type1.1.mp4",
         
      
-       "/videos/type1.2.mp4",
-       "/videos/type1.3.mp4",
-       "/videos/type1.4.mp4",
-       "/videos/type1.5.mp4",
+       "videos/type1.2.mp4",
+       "videos/type1.3.mp4",
+       "videos/type1.4.mp4",
+       "videos/type1.5.mp4",
          "/videos/type1.7.mp4",
           "/videos/type1.8.mp4",
            "/videos/type1.9.mp4",
