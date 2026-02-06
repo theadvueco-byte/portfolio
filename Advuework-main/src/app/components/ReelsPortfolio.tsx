@@ -12,7 +12,7 @@ const reelTypes = [
       "Focus on features & visual appeal",
     ],
     videos: [
-       "/videos/type1.1.mp4",
+       "videos/type1.1.mp4",
         
      
        "/videos/type1.2.mp4",
